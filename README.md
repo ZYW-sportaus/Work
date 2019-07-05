@@ -1,2 +1,3 @@
-#Work
-#learning github and test 
+# Work
+# learning github and test 
+# I know how it works now
